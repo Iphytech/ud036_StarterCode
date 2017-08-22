@@ -33,7 +33,7 @@
 		Type cd ud036_StarterCode 
 
 ### To generate the static HTML file with the favorite movies listed
-		 Type  python entertainment_center.py in your command line/terminal and hot enter
+		 Type  python entertainment_center.py in your command line/terminal and hit enter
 
 
 # To Add new movies
