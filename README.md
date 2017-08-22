@@ -3,8 +3,8 @@
 ### **Movie Trailer website** is a collection of my favourite movies through a static web page
 #### The movies are stored inside entertainment_center.py file.
 
-#install
-<pre> You need python that aid this file run on your local computer.
+# install
+	    You need python that aid this file run on your local computer.
 		To check if you have python installed, 
 		open command line/terminal on your computer,
 		type <code>python</code>, if you see this ->'Python 2.7.13 (v2.7.13:a06454b1afa1, Dec 17 2016, 20:53:40) [MSC v.1500 64 bit (AMD64)] on win32
@@ -14,9 +14,9 @@
 		ps: check add file to path when installing.
 		finally, open command line/terminal to check if python has installed.
 
-		</pre>
+		
 
-#Run
+# Run
 ### To run the project, we will need to follow the below steps -
 * Clone the project to your local directory - 
 		<pre> To clone, open command line/ terminal , navigate to your desktop
@@ -24,10 +24,10 @@
 		type <code> git clone https://github.com/Iphytech/ud036_StarterCode.git </code>
 		then, type <code>cd ud036_StarterCode </code>
 ### To generate the static HTML file with the favorite movies listed
-		<pre> To do that type <code> python entertainment_center.py </pre>
+		 To do that type <code> python entertainment_center.py 
 
 
-#To Add new movies
+# To Add new movies
 *Open entertainment_center.py in your Code Editor.
 * All the movies are saved under a variable first_collections, second_colections etc
 * Inside each variable, you can add/remove movies of your choices
