@@ -11,7 +11,7 @@
 		if you see this ->'Python 2.7.13 (v2.7.13:a06454b1afa1, Dec 17 2016, 20:53:40) [MSC v.1500 64 bit (AMD64)] on win32
 		Type "help", "copyright", "credits" or "license" for more information.' you are okay!
 		but if you get an error message like, python is not recognised , click on this -> 
-		https://www.python.org/downloads/ to install python. 
+		<code> https://www.python.org/downloads/</code> to install python. 
 		ps: check add file to path when installing.
 		finally, open command line/terminal to check if python has installed.
 
