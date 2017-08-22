@@ -27,9 +27,10 @@
 		<pre> To clone, open command line/ terminal , navigate to your desktop
 
 		C:\Users\ify\Documents\ 
-		
-		type <code> git clone https://github.com/Iphytech/ud036_StarterCode.git </code>
-		then, type <code>cd ud036_StarterCode </code>
+
+		Type git clone https://github.com/Iphytech/ud036_StarterCode.git 
+
+		Type cd ud036_StarterCode 
 
 ### To generate the static HTML file with the favorite movies listed
 		 Type  python entertainment_center.py in your command line/terminal and hot enter
