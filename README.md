@@ -26,7 +26,7 @@
 * Clone the project to your local directory - 
 		<pre> To clone, open command line/ terminal , navigate to your desktop
 
-		C:\Users\ify\Documents\ 
+		C:\Users\~\Desktop 
 
 		Type git clone https://github.com/Iphytech/ud036_StarterCode.git 
 
