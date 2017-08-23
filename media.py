@@ -1,7 +1,8 @@
 import webbrowser
 
+
 class favourite_movies():
-	# class definition.
+    # class definition.
 
         def __init__(self, favourite_movie_title, favourite_movie_image, favourite_movie_url):  # NOQA
             # initializes favourite movies attributes
